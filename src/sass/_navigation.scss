@@ -32,6 +32,7 @@
 .logo {
   display: flex;
   margin-bottom: 65px;
+  cursor: pointer;
 
   &__container {
     display: flex;
@@ -74,6 +75,7 @@
   padding: 11px 8px 11px 11px;
   width: 250px;
   height: 46px;
+  cursor: pointer;
 
   a {
     color: $text-light;
